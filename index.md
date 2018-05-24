@@ -1,3 +1,8 @@
+---
+layout: docs
+title:  "Rockefeller Archive Center Digital Preservation Policy"
+---
+
 **October, 2016**
 
 ## Purpose
