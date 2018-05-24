@@ -24,9 +24,7 @@ Develop and maintain in-house expertise for responsible stewardship of digital m
 
 ## Mandate
 
-The RAC mandate for ensuring the preservation of deposited digital content stems from two
-
-primary areas of responsibility:
+The RAC mandate for ensuring the preservation of deposited digital content stems from two primary areas of responsibility:
 
 *Contractual and Legal Obligation*: To the extent that deposited digital content requires persistent, contractually mandated and legally-binding access, RAC islegally required to preserve that content.
 
@@ -61,9 +59,7 @@ Digital preservation programs face multiple challenges and risks. These include,
 ## Principles
 
 -   Digital preservation is an ongoing activity. Preservation solutions must be cost effective so that they can be maintained over time.
-
 -   Whenever possible, the RAC is committed to using open source solutions for digital preservation processes. Adopting open source solutions reduces risks related to vendor reliance and ensures transparency in preservation practices. The RAC recognizes that open source solutions also require continued development and maintenance over time.
-
 -   The RAC will participate in the development of digital preservation community standards and solutions, and will adopt standards and best practices whenever possible.
 
 ## Categories of Commitment
@@ -75,9 +71,9 @@ In recognition that digital preservation is an ongoing, resource-intensive endea
 > *Digitized materials (available analog version)* - In most cases the analog version of these materials will be considered the preservation format, and preservation activities for the digital materials will be limited to local and non-distributed bit-level replication. Whenever possible, digitized materials will be created using file formats conducive to long-term preservation activities. The cost of re-digitizing materials should be weighed against the cost of long term preservation. In cases where the analog carriers of information are obsolete or at great risk of obsolescence, such as audio/visual materials, the digitized materials will be considered the preservation copy and treated with the same care as born digital materials.
 >
 > *Commercially available digital resources* - Due to copyright and other licensing issues, the RAC will make no effort to preserve commercially available digital resources, including published content as well as proprietary software. To the extent that it is possible, the RAC will attempt to preserve archival data stored within proprietary systems.
-
-*Legacy digital materials*
-
+>
+> *Legacy digital materials*
+>
 > Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible.
 > When possible, the RAC will attempt to recover this data and evaluate it for inclusion into the digital preservation system. The RAC makes no guarantee that recovery will be successful or that it will be able to provide the resources necessary to attempt recovery.
 
