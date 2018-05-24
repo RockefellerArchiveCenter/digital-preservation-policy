@@ -40,11 +40,8 @@ The RAC mandate for ensuring the preservation of deposited digital content stems
 This policy addresses the preservation of digital materials for which the Rockefeller Archive Center is the primary custodian. This includes:
 
 -   Digital materials created by the RAC, which are deemed to have permanent archival value.
-
 -   Digital surrogates created (either internally or via outsourcing) by the RAC which are deemed to have permanent archival value.
-
 -   Unique digital materials which have been officially appraised as having permanent archival value in accordance with the RAC’s Collections Development Policy, legally transferred to the RAC, and accessioned by the RAC.
-
 -   Unique digital materials which have been officially appraised as having permanent archival value in accordance with the RAC’s Collections Development Policy, and acquired on a deposit basis through a separate agreement provisioning for their long-term care.
 
 ## Challenges
