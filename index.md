@@ -125,7 +125,7 @@ Preservation strategies affect access capabilities. It is incumbent upon RAC res
 
 The RAC may occasionally contract with external partners to provide additional support for digital preservation activities, including but not limited to augmenting hardware or software capacity and providing development expertise or technical support for existing systems. The roles and responsibilities of these partners are contractually defined, and may vary substantially over time.
 
-[]{#h.cd0xa1g02r0n .anchor}Appendix A: Glossary
+## Appendix A: Glossary
 
 **Accession:** To take legal and physical custody of a group of materials and establish physical and intellectual control.
 
@@ -149,7 +149,7 @@ The RAC may occasionally contract with external partners to provide additional s
 
 **Open Source:** A software development methodology and licensing approach that makes computer source code freely available, open to modification, and redistributable.
 
-[]{#h.lnnnpsycmu8c .anchor}Appendix B: Sources Consulted
+## Appendix B: Sources Consulted
 
 Beagrie, N., Semple, N., Williams, P., & Wright, R. *Digital Preservation Policies Study*. (October 2008)
 [*http://www.webarchive.org.uk/wayback/archive/20140615022334/http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolicy\_p1finalreport.pdf*](http://www.webarchive.org.uk/wayback/archive/20140615022334/http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolicy_p1finalreport.pdf)
