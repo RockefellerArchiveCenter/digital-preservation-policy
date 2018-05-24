@@ -16,13 +16,9 @@ In accordance with its mission to preserve the materials entrusted to the Center
 Digital preservation encompasses a series of activities, processes and tools necessary to ensure continued access to authentic digital materials for as long as necessary. This digital preservation system stabilizes digital materials to ensure access beyond the limits of media failure or technological change. The objectives in this policy define a framework to:
 
 -   Establish and communicate an institutional commitment for digital preservation to the RAC user community, including but not limited to researchers, donors/depositors, and staff.
-
 -   Identify and select digital assets to be preserved, and clarify the levels of preservation the RAC can provide for specific groups of digital materials.
-
 -   Maintain a minimum of bit-level preservation for all objects entering the preservation system.
-
 -   Comply with community standards for the preservation, acquisition, access, and description of digital materials.
-
 -   Clarify the roles and responsibilities for those engaged with ensuring the sustainability of the digital preservation system.
 
 Develop and maintain in-house expertise for responsible stewardship of digital materials as a core function of the archive.
