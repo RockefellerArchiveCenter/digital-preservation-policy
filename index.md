@@ -31,7 +31,7 @@ Develop and maintain in-house expertise for responsible stewardship of digital m
 
 The RAC mandate for ensuring the preservation of deposited digital content stems from two primary areas of responsibility:
 
-*Contractual and Legal Obligation*: To the extent that deposited digital content requires persistent, contractually mandated and legally-binding access, RAC islegally required to preserve that content.
+*Contractual and Legal Obligation:* To the extent that deposited digital content requires persistent, contractually mandated and legally-binding access, RAC islegally required to preserve that content.
 
 *Organizational Commitment:* The RAC has an obligation to preserve and maintain access to the digital materials that are under its stewardship.
 
@@ -77,9 +77,7 @@ In recognition that digital preservation is an ongoing, resource-intensive endea
 >
 > *Commercially available digital resources* - Due to copyright and other licensing issues, the RAC will make no effort to preserve commercially available digital resources, including published content as well as proprietary software. To the extent that it is possible, the RAC will attempt to preserve archival data stored within proprietary systems.
 >
-> *Legacy digital materials*
->
-> Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible.
+> *Legacy digital materials* - Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible.
 > When possible, the RAC will attempt to recover this data and evaluate it for inclusion into the digital preservation system. The RAC makes no guarantee that recovery will be successful or that it will be able to provide the resources necessary to attempt recovery.
 
 ## Frequency of Policy Review
@@ -140,13 +138,13 @@ The RAC may occasionally contract with external partners to provide additional s
 
 **Digital preservation:** The storage, maintenance and access to digital resources over the long term. Because of the risk of media failure and the rapid pace of technological change, digital preservation is an ongoing process.
 
-**Digital preservation system**: A system, consisting of people and technologies, for ensuring the long-term usability of digital objects and materials, beyond the limits of media failure or technological change.
+**Digital preservation system:** A system, consisting of people and technologies, for ensuring the long-term usability of digital objects and materials, beyond the limits of media failure or technological change.
 
 **Digital surrogate/digitized materials:** Materials that were originally created in analog form, but were reformatted (such as by scanning) into digital form, usually for preservation or access.
 
-**Emulation**: The imitation of a computer system in order to allow programs and media designed for a particular system to operate in a different, usually newer, system. A method of overcoming technological obsolescence.
+**Emulation:** The imitation of a computer system in order to allow programs and media designed for a particular system to operate in a different, usually newer, system. A method of overcoming technological obsolescence.
 
-**Migration**: The transfer of digital resources from one hardware or software generation to the next, while preserving the essential characteristics of the data. A method of overcoming technological obsolescence.
+**Migration:** The transfer of digital resources from one hardware or software generation to the next, while preserving the essential characteristics of the data. A method of overcoming technological obsolescence.
 
 **Open Source:** A software development methodology and licensing approach that makes computer source code freely available, open to modification, and redistributable.
 
