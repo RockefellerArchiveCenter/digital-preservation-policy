@@ -143,7 +143,7 @@ The RAC may occasionally contract with external partners to provide additional s
 
 ## Appendix B: Sources Consulted
 
-Beagrie, N., Semple, N., Williams, P., & Wright, R. *Digital Preservation Policies Stud.* (October 2008) [*http://www.webarchive.org.uk/wayback/archive/20140615022334/http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolicy\_p1finalreport.pdf*](http://www.webarchive.org.uk/wayback/archive/20140615022334/http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolicy_p1finalreport.pdf)
+Beagrie, N., Semple, N., Williams, P., & Wright, R. *Digital Preservation Policies Study.* (October 2008) [*http://www.webarchive.org.uk/wayback/archive/20140615022334/http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolicy\_p1finalreport.pdf*](http://www.webarchive.org.uk/wayback/archive/20140615022334/http://www.jisc.ac.uk/media/documents/programmes/preservation/jiscpolicy_p1finalreport.pdf)
 
 Columbia University Libraries. *Policy for Preservation of Digital Resource.* (2006) [*http://library.columbia.edu/content/libraryweb/services/preservation/dlpolicy.html*](http://library.columbia.edu/content/libraryweb/services/preservation/dlpolicy.html)
 
@@ -153,7 +153,7 @@ ERPANET. *Digital Preservation Policy Too.* (September 2003) [*http://www.erpane
 
 Nelson, N., Shaw, S., Deromedi, N., Shallcross, M., Ghering, C., Schmidt, L., Belden, M., Esposito, J., Goldman, B., Pyatt, T. *SPEC Kit 329: Managing Born-Digital Special Collections and Archival Materials.* (August 2012) [*http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/*](http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/)
 
-NESTOR. *Guidelines for the Creation of an Institutional Policy on Digital Preservatio.* (2014) [*http://files.d-nb.de/nestor/materialien/nestor\_mat\_18-eng.pdf*](http://files.d-nb.de/nestor/materialien/nestor_mat_18-eng.pdf)
+NESTOR. *Guidelines for the Creation of an Institutional Policy on Digital Preservation.* (2014) [*http://files.d-nb.de/nestor/materialien/nestor\_mat\_18-eng.pdf*](http://files.d-nb.de/nestor/materialien/nestor_mat_18-eng.pdf)
 
 The Ohio State University. *Digital Preservation Policy Framework*. (August 2013) [*http://library.osu.edu/documents/SDIWG/Digital\_Preservation\_Policy\_Framework.pdf*](http://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf)
 
@@ -161,4 +161,4 @@ Purdue University Research Repository. *Digital Preservation Policy*. (April 201
 
 The University of Manchester Library. *Digital Preservation Strategy 201.* (July 2012) [*http://www.library.manchester.ac.uk/aboutus/strategy/\_files2/Digital-Preservation-Strategy.pdf*](http://www.library.manchester.ac.uk/aboutus/strategy/_files2/Digital-Preservation-Strategy.pdf)
 
-Yale University Library. *Policy for the Digital Preservatio.* (February 2007) [*http://www.library.yale.edu/iac/DPC/revpolicy2-19-07.pdf*](http://www.library.yale.edu/iac/DPC/revpolicy2-19-07.pdf)
+Yale University Library. *Policy for the Digital Preservation.* (February 2007) [*http://www.library.yale.edu/iac/DPC/revpolicy2-19-07.pdf*](http://www.library.yale.edu/iac/DPC/revpolicy2-19-07.pdf)
