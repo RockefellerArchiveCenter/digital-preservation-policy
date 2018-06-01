@@ -3,8 +3,6 @@ layout: docs
 title:  "Rockefeller Archive Center Digital Preservation Policy"
 ---
 
-**October, 2016**
-
 ## Purpose
 
 The Rockefeller Archive Center (RAC) fosters and supports a broad community of users examining the history of philanthropy and its related endeavors. We acquire, preserve, make accessible, and encourage research and scholarship in the papers and records of the Rockefeller family and Rockefeller-founded philanthropies, and those of other foundations, nonprofit organizations, and related individuals undertaking philanthropic work and scientific and medical research.
