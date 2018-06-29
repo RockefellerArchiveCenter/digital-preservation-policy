@@ -42,15 +42,11 @@ This policy addresses the preservation of digital materials for which the Rockef
 
 Digital preservation programs face multiple challenges and risks. These include, but are not limited to:
 
-> *Technological change:* Establishing a program that can identify and keep pace with rapid changes in technologies used to capture, store, and represent digital materials.
->
-> *Maintaining a focus on preservation:* Providing a balance between access and preservation, while being mindful of preservation’s core role in maintaining access.
->
-> *Sustainability:* Developing a sustainable digital preservation model that will respond to staffing, equipment, software, and infrastructure changes as needed, without under- or overestimating the needs imposed by these changes.
->
-> *Training and awareness:* Continuing to update staff expertise, where appropriate, as technologies change.
->
-> *Flexibility:* Responding to evolving technological capabilities and changing user expectations without jeopardizing the ongoing care of digital content.
+* *Technological change:* Establishing a program that can identify and keep pace with rapid changes in technologies used to capture, store, and represent digital materials.
+* *Maintaining a focus on preservation:* Providing a balance between access and preservation, while being mindful of preservation’s core role in maintaining access.
+* *Sustainability:* Developing a sustainable digital preservation model that will respond to staffing, equipment, software, and infrastructure changes as needed, without under- or overestimating the needs imposed by these changes.
+* *Training and awareness:* Continuing to update staff expertise, where appropriate, as technologies change.
+* *Flexibility:* Responding to evolving technological capabilities and changing user expectations without jeopardizing the ongoing care of digital content.
 
 ## Principles
 
@@ -62,13 +58,10 @@ Digital preservation programs face multiple challenges and risks. These include,
 
 In recognition that digital preservation is an ongoing, resource-intensive endeavor, the RAC has outlined levels of commitment to different categories of materials.
 
-> *Born digital materials* - Rigorous effort will be made to ensure preservation in perpetuity of material selected for preservation, including the RAC's own digital records as well as archival materials acquired by the RAC This effort may include preservation strategies such as: migration, emulation, and geographically distributed and redundant bit-level replication. Digitized materials with no available analog versions will be treated with the same care as born digital materials.
->
-> *Digitized materials (available analog version)* - In most cases the analog version of these materials will be considered the preservation format, and preservation activities for the digital materials will be limited to local and non-distributed bit-level replication. Whenever possible, digitized materials will be created using file formats conducive to long-term preservation activities. The cost of re-digitizing materials should be weighed against the cost of long term preservation. In cases where the analog carriers of information are obsolete or at great risk of obsolescence, such as audio/visual materials, the digitized materials will be considered the preservation copy and treated with the same care as born digital materials.
->
-> *Commercially available digital resources* - Due to copyright and other licensing issues, the RAC will make no effort to preserve commercially available digital resources, including published content as well as proprietary software. To the extent that it is possible, the RAC will attempt to preserve archival data stored within proprietary systems.
->
-> *Legacy digital materials* - Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible.
+* *Born digital materials* - Rigorous effort will be made to ensure preservation in perpetuity of material selected for preservation, including the RAC's own digital records as well as archival materials acquired by the RAC This effort may include preservation strategies such as: migration, emulation, and geographically distributed and redundant bit-level replication. Digitized materials with no available analog versions will be treated with the same care as born digital materials.
+* *Digitized materials (available analog version)* - In most cases the analog version of these materials will be considered the preservation format, and preservation activities for the digital materials will be limited to local and non-distributed bit-level replication. Whenever possible, digitized materials will be created using file formats conducive to long-term preservation activities. The cost of re-digitizing materials should be weighed against the cost of long term preservation. In cases where the analog carriers of information are obsolete or at great risk of obsolescence, such as audio/visual materials, the digitized materials will be considered the preservation copy and treated with the same care as born digital materials.
+* *Commercially available digital resources* - Due to copyright and other licensing issues, the RAC will make no effort to preserve commercially available digital resources, including published content as well as proprietary software. To the extent that it is possible, the RAC will attempt to preserve archival data stored within proprietary systems.
+* *Legacy digital materials* - Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible.
 > When possible, the RAC will attempt to recover this data and evaluate it for inclusion into the digital preservation system. The RAC makes no guarantee that recovery will be successful or that it will be able to provide the resources necessary to attempt recovery.
 
 ## Frequency of Policy Review
