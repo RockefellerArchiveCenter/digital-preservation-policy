@@ -76,7 +76,7 @@ Digital Preservation is a highly collaborative endeavor that reaches across each
 
 Donors, or depositors, are the creators of materials for inclusion into the archive and play a critical role in the preservation of digital materials. They are responsible for effective management of materials prior to transfer to the archives, including identifying archival materials, providing appropriate levels of description for those materials, and working closely with the RAC to ensure a successful transfer of the materials.
 
-### RAC Leadership
+### RAC Senior Leadership
 
 The RAC President and Director of Archives are responsible for identifying relevant archival materials and communicating with potential and current donors and depositors, including assisting them with the identification of archival materials prior to transfer to the archives, and negotiating the appropriate ownership and rights to be transferred with the materials.
 
