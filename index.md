@@ -76,13 +76,13 @@ Digital Preservation is a highly collaborative endeavor that reaches across each
 
 Donors, or depositors, are the creators of materials for inclusion into the archive and play a critical role in the preservation of digital materials. They are responsible for effective management of materials prior to transfer to the archives, including identifying archival materials, providing appropriate levels of description for those materials, and working closely with the RAC to ensure a successful transfer of the materials.
 
-### Donor Relations and Collection Development
+### RAC Senior Leadership
 
-The Donor Relations and Collection Development team is responsible for identifying relevant archival materials and communicating with potential and current donors and depositors, including assisting them with the identification of archival materials prior to transfer to the archives, and negotiating the appropriate ownership and rights to be transferred with the materials.
+The RAC President and Director of Archives are responsible for identifying relevant archival materials and communicating with potential and current donors and depositors, including negotiating the appropriate ownership and rights to be transferred with the materials.
 
 ### Collections Management
 
-The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Reference team to digitize audio/visual materials.
+The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Reference team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
 
 ### Digital Programs
 
