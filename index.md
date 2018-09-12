@@ -18,8 +18,7 @@ Digital preservation encompasses a series of activities, processes and tools nec
 -   Maintain a minimum of bit-level preservation for all objects entering the preservation system.
 -   Comply with community standards for the preservation, acquisition, access, and description of digital materials.
 -   Clarify the roles and responsibilities for those engaged with ensuring the sustainability of the digital preservation system.
-
-Develop and maintain in-house expertise for responsible stewardship of digital materials as a core function of the archive.
+-   Develop and maintain in-house expertise for responsible stewardship of digital materials as a core function of the archive.
 
 ## Mandate
 
@@ -61,8 +60,7 @@ In recognition that digital preservation is an ongoing, resource-intensive endea
 * *Born digital materials* - Rigorous effort will be made to ensure preservation in perpetuity of material selected for preservation, including the RAC's own digital records as well as archival materials acquired by the RAC This effort may include preservation strategies such as: migration, emulation, and geographically distributed and redundant bit-level replication. Digitized materials with no available analog versions will be treated with the same care as born digital materials.
 * *Digitized materials (available analog version)* - In most cases the analog version of these materials will be considered the preservation format, and preservation activities for the digital materials will be limited to local and non-distributed bit-level replication. Whenever possible, digitized materials will be created using file formats conducive to long-term preservation activities. The cost of re-digitizing materials should be weighed against the cost of long term preservation. In cases where the analog carriers of information are obsolete or at great risk of obsolescence, such as audio/visual materials, the digitized materials will be considered the preservation copy and treated with the same care as born digital materials.
 * *Commercially available digital resources* - Due to copyright and other licensing issues, the RAC will make no effort to preserve commercially available digital resources, including published content as well as proprietary software. To the extent that it is possible, the RAC will attempt to preserve archival data stored within proprietary systems.
-* *Legacy digital materials* - Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible.
-> When possible, the RAC will attempt to recover this data and evaluate it for inclusion into the digital preservation system. The RAC makes no guarantee that recovery will be successful or that it will be able to provide the resources necessary to attempt recovery.
+* *Legacy digital materials* - Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible. When possible, the RAC will attempt to recover this data and evaluate it for inclusion into the digital preservation system. The RAC makes no guarantee that recovery will be successful or that it will be able to provide the resources necessary to attempt recovery.
 
 ## Frequency of Policy Review
 
