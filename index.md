@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Digital Preservation Policy"
+title:  "Digital Preservation Policy"
 ---
 
 ## Purpose
