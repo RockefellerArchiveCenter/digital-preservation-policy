@@ -138,7 +138,7 @@ Columbia University Libraries. *Policy for Preservation of Digital Resource.* (2
 
 DCC\. *Preservation Policy Template for Repositories.* (January 2010) [*http://www.dcc.ac.uk/sites/default/files/documents/Preservation%20policy%20template.pdf*](http://www.dcc.ac.uk/sites/default/files/documents/Preservation%20policy%20template.pdf)
 
-ERPANET. *Digital Preservation Policy Too.* (September 2003) [*http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf*](http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf)
+ERPANET. *Digital Preservation Policy Tool.* (September 2003) [*http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf*](http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf)
 
 Nelson, N., Shaw, S., Deromedi, N., Shallcross, M., Ghering, C., Schmidt, L., Belden, M., Esposito, J., Goldman, B., Pyatt, T. *SPEC Kit 329: Managing Born-Digital Special Collections and Archival Materials.* (August 2012) [*http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/*](http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/)
 
@@ -148,6 +148,6 @@ The Ohio State University. *Digital Preservation Policy Framework*. (August 2013
 
 Purdue University Research Repository. *Digital Preservation Policy*. (April 2012) [*https://purr.purdue.edu/legal/digitalpreservation*](https://purr.purdue.edu/legal/digitalpreservation)
 
-The University of Manchester Library. *Digital Preservation Strategy 201.* (July 2012) [*http://www.library.manchester.ac.uk/aboutus/strategy/\_files2/Digital-Preservation-Strategy.pdf*](http://www.library.manchester.ac.uk/aboutus/strategy/_files2/Digital-Preservation-Strategy.pdf)
+The University of Manchester Library. *Digital Preservation Statement.* (March 2020) [*https://www.library.manchester.ac.uk/about/policies/_files/Digital-Preservation-Statement-1.0.pdf*](https://www.library.manchester.ac.uk/about/policies/_files/Digital-Preservation-Statement-1.0.pdf)
 
-Yale University Library. *Policy for the Digital Preservation.* (February 2007) [*http://www.library.yale.edu/iac/DPC/revpolicy2-19-07.pdf*](http://www.library.yale.edu/iac/DPC/revpolicy2-19-07.pdf)
+Yale University Library. *Digital Preservation Policy Framework.* (November 2014) [*https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf*](https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf)
