@@ -3,7 +3,7 @@ In accordance with its mission to preserve the materials entrusted to the Center
 
 ## Accessing the policy
 
-This content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
+This content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
 
 ## License
 
