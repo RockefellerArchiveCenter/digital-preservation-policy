@@ -140,12 +140,12 @@ ERPANET. *Digital Preservation Policy Tool.* (September 2003) [*http://www.erpan
 
 Nelson, N., Shaw, S., Deromedi, N., Shallcross, M., Ghering, C., Schmidt, L., Belden, M., Esposito, J., Goldman, B., Pyatt, T. *SPEC Kit 329: Managing Born-Digital Special Collections and Archival Materials.* (August 2012) [*http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/*](http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/)
 
-NESTOR. *Guidelines for the Creation of an Institutional Policy on Digital Preservation.* (2014) [*https://files.dnb.de/nestor/materialien/nestor_mat_18-eng.pdf*](https://files.dnb.de/nestor/materialien/nestor_mat_18-eng.pdf)
+NESTOR. *Guidelines for the Creation of an Institutional Policy on Digital Preservation.* (2014) [*http://files.d-nb.de/nestor/materialien/nestor\_mat\_18-eng.pdf*](http://files.d-nb.de/nestor/materialien/nestor_mat_18-eng.pdf)
 
-The Ohio State University. *Digital Preservation Policy Framework*. (August 2013) [*https://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf*](https://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf)
+The Ohio State University. *Digital Preservation Policy Framework*. (August 2013) [*http://library.osu.edu/documents/SDIWG/Digital\_Preservation\_Policy\_Framework.pdf*](http://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf)
 
 Purdue University Research Repository. *Digital Preservation Policy*. (April 2012) [*https://purr.purdue.edu/legal/digitalpreservation*](https://purr.purdue.edu/legal/digitalpreservation)
 
-The University of Manchester Library. *Digital Preservation Statement.* (March 2020) [*https://documents.manchester.ac.uk/display.aspx?DocID=58357*](https://documents.manchester.ac.uk/display.aspx?DocID=58357)
+The University of Manchester Library. *Digital Preservation Statement.* (March 2020) [*https://www.library.manchester.ac.uk/about/policies/_files/Digital-Preservation-Statement-1.0.pdf*](https://www.library.manchester.ac.uk/about/policies/_files/Digital-Preservation-Statement-1.0.pdf)
 
 Yale University Library. *Digital Preservation Policy Framework.* (November 2014) [*https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf*](https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf)
