@@ -5,13 +5,15 @@ title:  "Digital Preservation Policy"
 
 ## Purpose
 
-In accordance with its mission, this statement formalizes the RAC’s commitment to ensure continued access to the digital content in our care through a policy of active digital preservation.
+The Rockefeller Archive Center (RAC) fosters and supports a broad community of users examining the history of philanthropy and its related endeavors. We acquire, preserve, make accessible, and encourage research and scholarship in the papers and records of the Rockefeller family and Rockefeller-founded philanthropies, and those of other foundations, nonprofit organizations, and related individuals undertaking philanthropic work and scientific and medical research.
+
+In accordance with its mission to preserve the materials entrusted to the Center, this statement formalizes the RAC’s commitment to ensure continued access to the digital content in our care through a policy of active digital preservation.
 
 ## Objectives
 
 Digital preservation encompasses a series of activities, processes and tools necessary to ensure continued access to authentic digital materials for as long as necessary. This digital preservation system stabilizes digital materials to ensure access beyond the limits of media failure or technological change. The objectives in this policy define a framework to:
 
--   Establish and communicate an institutional commitment for digital preservation to the RAC's user communities, including but not limited to researchers, donors/depositors, and staff.
+-   Establish and communicate an institutional commitment for digital preservation to the RAC user community, including but not limited to researchers, donors/depositors, and staff.
 -   Identify and select digital assets to be preserved, and clarify the levels of preservation the RAC can provide for specific groups of digital materials.
 -   Maintain a minimum of bit-level preservation for all objects entering the preservation system.
 -   Comply with community standards for the preservation, acquisition, access, and description of digital materials.
@@ -80,9 +82,9 @@ The RAC President and Director of Archives are responsible for identifying relev
 
 The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Reference team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
 
-### Digital Strategies
+### Digital Programs
 
-The Digital Strategies team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
+The Digital Programs team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
 
 ### Processing
 
