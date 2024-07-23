@@ -78,23 +78,23 @@ The RAC President and Director of Archives are responsible for identifying relev
 
 ### Collections Management
 
-The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Reference team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
+The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Access team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
 
-### Digital Programs
+### Digital Strategies
 
-The Digital Programs team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
+The Digital Strategies team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
 
 ### Processing
 
-The Processing team is responsible for working with the Digital Programs group to describe and process digital collections, includingforensically imaging materials for processing and identifying restricted digital materials and determining copyright.
+The Processing team is responsible for working with the Digital Strategies team to describe and process digital collections, includingforensically imaging materials for processing and identifying restricted digital materials and determining copyright.
 
-### Reference
+### Access
 
-The Reference team is responsible for working with the RAC researcher community to increase awareness of the digital materials that are available for research and to digitize select materials. The Reference team is also responsible for working with the Digital Programs team to provide access to digital materials.
+The Access team is responsible for working with the RAC researcher community to increase awareness of the digital materials that are available for research and to digitize select materials. The Access team is also responsible for working with the Digital Strategies team to provide access to digital materials.
 
 ### IT Services
 
-RAC IT Services are responsible for the maintenance and security of the servers, networks, and storage systems employed by the digital preservation system. The IT Services team works closely with the Digital Programs team to ensure that systems are running smoothly and are optimized for efficiency.
+RAC IT Services are responsible for the maintenance and security of the servers, networks, and storage systems employed by the digital preservation system. The IT Services team works closely with the Digital Strategies team to ensure that systems are running smoothly and are optimized for efficiency.
 
 ### RAC Researchers
 
