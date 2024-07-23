@@ -80,9 +80,9 @@ The RAC President and Director of Archives are responsible for identifying relev
 
 The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Reference team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
 
-### Digital Strategies
+### Digital Programs
 
-The Digital Strategies team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
+The Digital Programs team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
 
 ### Processing
 
