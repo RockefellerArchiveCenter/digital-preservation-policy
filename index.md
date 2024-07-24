@@ -5,15 +5,13 @@ title:  "Digital Preservation Policy"
 
 ## Purpose
 
-The Rockefeller Archive Center (RAC) fosters and supports a broad community of users examining the history of philanthropy and its related endeavors. We acquire, preserve, make accessible, and encourage research and scholarship in the papers and records of the Rockefeller family and Rockefeller-founded philanthropies, and those of other foundations, nonprofit organizations, and related individuals undertaking philanthropic work and scientific and medical research.
-
-In accordance with its mission to preserve the materials entrusted to the Center, this statement formalizes the RAC’s commitment to ensure continued access to the digital content in our care through a policy of active digital preservation.
+In accordance with its mission, this statement formalizes the RAC’s commitment to ensure continued access to the digital content in our care through a policy of active digital preservation.
 
 ## Objectives
 
 Digital preservation encompasses a series of activities, processes and tools necessary to ensure continued access to authentic digital materials for as long as necessary. This digital preservation system stabilizes digital materials to ensure access beyond the limits of media failure or technological change. The objectives in this policy define a framework to:
 
--   Establish and communicate an institutional commitment for digital preservation to the RAC user community, including but not limited to researchers, donors/depositors, and staff.
+-   Establish and communicate an institutional commitment for digital preservation to the RAC's user communities, including but not limited to researchers, donors/depositors, and staff.
 -   Identify and select digital assets to be preserved, and clarify the levels of preservation the RAC can provide for specific groups of digital materials.
 -   Maintain a minimum of bit-level preservation for all objects entering the preservation system.
 -   Comply with community standards for the preservation, acquisition, access, and description of digital materials.
@@ -80,23 +78,23 @@ The RAC President and Director of Archives are responsible for identifying relev
 
 ### Collections Management
 
-The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Reference team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
+The Collections Management team is responsible for accessioning digital materials, managing climate-controlled environments for digital media, and collaborating with the Access team to digitize audio/visual materials. In collaboration with the RAC President and Director of Archives, the Collections Management team is additionally responsible for working with potential and current donors and depositors to assist them with the identification of archival materials prior to transfer to the archives.
 
-### Digital Programs
+### Digital Strategies
 
-The Digital Programs team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
+The Digital Strategies team is responsible for managing digital preservation systems, determining migration policies, conducting preservation planning, managing relationships with service providers, developing preservation workflows, and advising other RAC teams on digital preservation-related activities, including forensically imaging materials for processing, and providing access to digital materials.
 
 ### Processing
 
-The Processing team is responsible for working with the Digital Programs group to describe and process digital collections, includingforensically imaging materials for processing and identifying restricted digital materials and determining copyright.
+The Processing team is responsible for working with the Digital Strategies team to describe and process digital collections, includingforensically imaging materials for processing and identifying restricted digital materials and determining copyright.
 
-### Reference
+### Access
 
-The Reference team is responsible for working with the RAC researcher community to increase awareness of the digital materials that are available for research and to digitize select materials. The Reference team is also responsible for working with the Digital Programs team to provide access to digital materials.
+The Access team is responsible for working with the RAC researcher community to increase awareness of the digital materials that are available for research and to digitize select materials. The Access team is also responsible for working with the Digital Strategies team to provide access to digital materials.
 
 ### IT Services
 
-RAC IT Services are responsible for the maintenance and security of the servers, networks, and storage systems employed by the digital preservation system. The IT Services team works closely with the Digital Programs team to ensure that systems are running smoothly and are optimized for efficiency.
+RAC IT Services are responsible for the maintenance and security of the servers, networks, and storage systems employed by the digital preservation system. The IT Services team works closely with the Digital Strategies team to ensure that systems are running smoothly and are optimized for efficiency.
 
 ### RAC Researchers
 
@@ -142,12 +140,12 @@ ERPANET. *Digital Preservation Policy Tool.* (September 2003) [*http://www.erpan
 
 Nelson, N., Shaw, S., Deromedi, N., Shallcross, M., Ghering, C., Schmidt, L., Belden, M., Esposito, J., Goldman, B., Pyatt, T. *SPEC Kit 329: Managing Born-Digital Special Collections and Archival Materials.* (August 2012) [*http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/*](http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/)
 
-NESTOR. *Guidelines for the Creation of an Institutional Policy on Digital Preservation.* (2014) [*http://files.d-nb.de/nestor/materialien/nestor\_mat\_18-eng.pdf*](http://files.d-nb.de/nestor/materialien/nestor_mat_18-eng.pdf)
+NESTOR. *Guidelines for the Creation of an Institutional Policy on Digital Preservation.* (2014) [*https://files.dnb.de/nestor/materialien/nestor_mat_18-eng.pdf*](https://files.dnb.de/nestor/materialien/nestor_mat_18-eng.pdf)
 
-The Ohio State University. *Digital Preservation Policy Framework*. (August 2013) [*http://library.osu.edu/documents/SDIWG/Digital\_Preservation\_Policy\_Framework.pdf*](http://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf)
+The Ohio State University. *Digital Preservation Policy Framework*. (August 2013) [*https://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf*](https://library.osu.edu/documents/SDIWG/Digital_Preservation_Policy_Framework.pdf)
 
 Purdue University Research Repository. *Digital Preservation Policy*. (April 2012) [*https://purr.purdue.edu/legal/digitalpreservation*](https://purr.purdue.edu/legal/digitalpreservation)
 
-The University of Manchester Library. *Digital Preservation Statement.* (March 2020) [*https://www.library.manchester.ac.uk/about/policies/_files/Digital-Preservation-Statement-1.0.pdf*](https://www.library.manchester.ac.uk/about/policies/_files/Digital-Preservation-Statement-1.0.pdf)
+The University of Manchester Library. *Digital Preservation Statement.* (March 2020) [*https://documents.manchester.ac.uk/display.aspx?DocID=58357*](https://documents.manchester.ac.uk/display.aspx?DocID=58357)
 
 Yale University Library. *Digital Preservation Policy Framework.* (November 2014) [*https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf*](https://web.library.yale.edu/sites/default/files/files/YUL%20Digital%20Preservation%20Policy%20Framework%20V1%200.pdf)
