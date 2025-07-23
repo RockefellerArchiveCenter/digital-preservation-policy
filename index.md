@@ -50,6 +50,7 @@ Digital preservation programs face multiple challenges and risks. These include,
 -   Digital preservation is an ongoing activity. Preservation solutions must be cost effective so that they can be maintained over time.
 -   Whenever possible, the RAC is committed to using open source solutions for digital preservation processes. Adopting open source solutions reduces risks related to vendor reliance and ensures transparency in preservation practices. The RAC recognizes that open source solutions also require continued development and maintenance over time.
 -   The RAC will participate in the development of digital preservation community standards and solutions, and will adopt standards and best practices whenever possible.
+-   Digital activities have environmental costs such as energy consumption, water use, and the production of e-waste. The RAC is dedicated to reducing its environmental impact associated with digital preservation activities.  
 
 ## Categories of Commitment
 
