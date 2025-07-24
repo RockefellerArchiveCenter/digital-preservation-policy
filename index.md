@@ -137,6 +137,8 @@ Columbia University Libraries. *Policy for Preservation of Digital Resource.* (2
 
 DCC\. *Preservation Policy Template for Repositories.* (January 2010) [*http://www.dcc.ac.uk/sites/default/files/documents/Preservation%20policy%20template.pdf*](http://www.dcc.ac.uk/sites/default/files/documents/Preservation%20policy%20template.pdf)
 
+Digital Preservation Coalition. *Digital Preservation Policy Toolkit.* Version 2. (March 2023) [*http://doi.org/10.7207/policytoolkit23-02*](http://doi.org/10.7207/policytoolkit23-02)
+
 ERPANET. *Digital Preservation Policy Tool.* (September 2003) [*http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf*](http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf)
 
 Nelson, N., Shaw, S., Deromedi, N., Shallcross, M., Ghering, C., Schmidt, L., Belden, M., Esposito, J., Goldman, B., Pyatt, T. *SPEC Kit 329: Managing Born-Digital Special Collections and Archival Materials.* (August 2012) [*http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/*](http://publications.arl.org/Managing-Born-Digital-Special-Collections-and-Archival-Materials-SPEC-Kit-329/)
