@@ -22,7 +22,7 @@ Digital preservation encompasses a series of activities, processes and tools nec
 
 The RAC mandate for ensuring the preservation of deposited digital content stems from two primary areas of responsibility:
 
-*Contractual and Legal Obligation:* To the extent that deposited digital content requires persistent, contractually mandated and legally-binding access, RAC islegally required to preserve that content.
+*Contractual and Legal Obligation:* To the extent that deposited digital content requires persistent, contractually mandated and legally-binding access, RAC is legally required to preserve that content.
 
 *Organizational Commitment:* The RAC has an obligation to preserve and maintain access to the digital materials that are under its stewardship.
 
@@ -50,12 +50,13 @@ Digital preservation programs face multiple challenges and risks. These include,
 -   Digital preservation is an ongoing activity. Preservation solutions must be cost effective so that they can be maintained over time.
 -   Whenever possible, the RAC is committed to using open source solutions for digital preservation processes. Adopting open source solutions reduces risks related to vendor reliance and ensures transparency in preservation practices. The RAC recognizes that open source solutions also require continued development and maintenance over time.
 -   The RAC will participate in the development of digital preservation community standards and solutions, and will adopt standards and best practices whenever possible.
+-   Digital activities have environmental costs such as energy consumption, water use, and the production of e-waste. The RAC is dedicated to reducing its environmental impact associated with digital preservation activities.  
 
 ## Categories of Commitment
 
 In recognition that digital preservation is an ongoing, resource-intensive endeavor, the RAC has outlined levels of commitment to different categories of materials.
 
-* *Born digital materials* - Rigorous effort will be made to ensure preservation in perpetuity of material selected for preservation, including the RAC's own digital records as well as archival materials acquired by the RAC This effort may include preservation strategies such as: migration, emulation, and geographically distributed and redundant bit-level replication. Digitized materials with no available analog versions will be treated with the same care as born digital materials.
+* *Born digital materials* - Rigorous effort will be made to ensure preservation in perpetuity of material selected for preservation, including the RAC's own digital records as well as archival materials acquired by the RAC. This effort may include preservation strategies such as: migration, emulation, and geographically distributed and redundant bit-level replication. Digitized materials with no available analog versions will be treated with the same care as born digital materials.
 * *Digitized materials (available analog version)* - In most cases the analog version of these materials will be considered the preservation format, and preservation activities for the digital materials will be limited to local and non-distributed bit-level replication. Whenever possible, digitized materials will be created using file formats conducive to long-term preservation activities. The cost of re-digitizing materials should be weighed against the cost of long term preservation. In cases where the analog carriers of information are obsolete or at great risk of obsolescence, such as audio/visual materials, the digitized materials will be considered the preservation copy and treated with the same care as born digital materials.
 * *Commercially available digital resources* - Due to copyright and other licensing issues, the RAC will make no effort to preserve commercially available digital resources, including published content as well as proprietary software. To the extent that it is possible, the RAC will attempt to preserve archival data stored within proprietary systems.
 * *Legacy digital materials* - Legacy digital materials are materials donated to the RAC prior to the development of a digital preservation system. Many of these materials were not officially appraised, accessioned, or evaluated for long-term value. Some of these materials are stored on obsolete media, encoded in obsolete file systems or formats, or are otherwise inaccessible. When possible, the RAC will attempt to recover this data and evaluate it for inclusion into the digital preservation system. The RAC makes no guarantee that recovery will be successful or that it will be able to provide the resources necessary to attempt recovery.
@@ -86,7 +87,7 @@ The Digital Strategies team is responsible for managing digital preservation sys
 
 ### Processing
 
-The Processing team is responsible for working with the Digital Strategies team to describe and process digital collections, includingforensically imaging materials for processing and identifying restricted digital materials and determining copyright.
+The Processing team is responsible for working with the Digital Strategies team to describe and process digital collections, including forensically imaging materials for processing and identifying restricted digital materials and determining copyright.
 
 ### Access
 
@@ -135,6 +136,8 @@ Beagrie, N., Semple, N., Williams, P., & Wright, R. *Digital Preservation Polici
 Columbia University Libraries. *Policy for Preservation of Digital Resource.* (2006) [*http://library.columbia.edu/content/libraryweb/services/preservation/dlpolicy.html*](http://library.columbia.edu/content/libraryweb/services/preservation/dlpolicy.html)
 
 DCC\. *Preservation Policy Template for Repositories.* (January 2010) [*http://www.dcc.ac.uk/sites/default/files/documents/Preservation%20policy%20template.pdf*](http://www.dcc.ac.uk/sites/default/files/documents/Preservation%20policy%20template.pdf)
+
+Digital Preservation Coalition. *Digital Preservation Policy Toolkit.* Version 2. (March 2023) [*http://doi.org/10.7207/policytoolkit23-02*](http://doi.org/10.7207/policytoolkit23-02)
 
 ERPANET. *Digital Preservation Policy Tool.* (September 2003) [*http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf*](http://www.erpanet.org/guidance/docs/ERPANETPolicyTool.pdf)
 
